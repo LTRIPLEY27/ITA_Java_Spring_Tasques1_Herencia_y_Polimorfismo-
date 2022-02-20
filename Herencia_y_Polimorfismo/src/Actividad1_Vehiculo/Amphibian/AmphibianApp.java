@@ -1,5 +1,9 @@
 package Actividad1_Vehiculo.Amphibian;
 
+/*
+* @uthor : Isabel Calzadilla
+* Ejercicio 1 Actividad 1
+* */
 public class AmphibianApp {
         public static void main(String[] args) {
             Amphibian amp = new Frog(4, "verde");

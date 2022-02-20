@@ -1,5 +1,8 @@
 package Actividad1_Vehiculo.animal;
-
+/*
+ * @uthor : Isabel Calzadilla
+ * Ejercicio 2 Actividad 1
+ * */
 public class AnimalApp {
     public static void main(String[] args){
         Animal animal = new Animal("felina", 4, "leopardo");

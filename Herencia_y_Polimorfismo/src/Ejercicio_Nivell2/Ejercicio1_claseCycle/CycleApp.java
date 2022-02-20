@@ -2,7 +2,10 @@ package Ejercicio_Nivell2.Ejercicio1_claseCycle;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/*
+ * @uthor : Isabel Calzadilla
+ * Ejercicio 1 Actividad 2
+ * */
 public class CycleApp {
     public static void main(String[] args){
 

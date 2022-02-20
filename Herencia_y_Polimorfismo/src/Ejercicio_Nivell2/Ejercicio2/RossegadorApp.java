@@ -2,7 +2,10 @@ package Ejercicio_Nivell2.Ejercicio2;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/*
+ * @uthor : Isabel Calzadilla
+ * Ejercicio 2 Actividad 2
+ * */
 public class RossegadorApp {
     public static void main(String[] args){
         Hamster ham = new Hamster(35, "marrón", 2.500);
